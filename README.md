@@ -20,7 +20,7 @@
 
 For detailed information, refer to the [**subject of this project**](https://github.com/Diogo13Antunes/42Cursus_Printf/blob/main/Subject.pdf).
 
-## 🛠️ Usage
+## 🛠️ Download
 
 ### Requirements
 
@@ -28,10 +28,9 @@ The library is written in C language and thus needs the **`gcc` compiler** and s
 
 ### Instructions
 
-**1. Compiling the library**
-
-To compile the library, run:
-
 ```shell
-$ cd path/to/ft_printf && make
+git clone https://github.com/Diogo13Antunes/42Cursus_Printf.git
 ```
+OR
+
+Download by clicking [**HERE**](https://github.com/Diogo13Antunes/42Cursus_Printf/archive/refs/heads/main.zip)
