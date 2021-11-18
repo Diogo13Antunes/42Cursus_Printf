@@ -1,15 +1,8 @@
-# FT_PRINTF
-## This is my ft_printf from 42 school.
+<h1 align="center">
+	42cursus' ft_printf
+</h1>
 
 <p align="center">
- <a href="#objetivo">Objetivo</a> •
- <a href="#roadmap">Roadmap</a> • 
- <a href="#tecnologias">Tecnologias</a> • 
- <a href="#contribuicao">Contribuição</a> • 
- <a href="#licenc-a">Licença</a> • 
- <a href="#autor">Autor</a>
+	<b><i>Development repo for 42cursus' ft_printf project</i></b><br>
+	For further information about 42cursus and its projects, please refer to <a href="https://github.com/appinha/42cursus"><b>42cursus repo</b></a>.
 </p>
-
-<h4 align="center"> 
-	🚧  React Select 🚀 Finished  🚧
-</h4>
