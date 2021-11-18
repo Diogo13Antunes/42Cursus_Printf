@@ -14,20 +14,24 @@
 	<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Diogo13Antunes/42Cursus_Printf?color=brightgreen" />
 </p>
 
-<h3 align="center">
-	<a href="#%EF%B8%8F-about">About</a>
-	<span> · </span>
-	<a href="#-index">Index</a>
-	<span> · </span>
-	<a href="#%EF%B8%8F-usage">Usage</a>
-	<span> · </span>
-	<a href="#-testing">Testing</a>
-	<span> · </span>
-	<a href="#-useful-links">Useful Links</a>
-</h3>
-
 ## 🗣️ About
 
 > _This project is pretty straight forward. You will recode printf. Hopefully you will be able to reuse it in future project without the fear of being flagged as a cheater. You will mainly learn how to use variadic arguments._
 
 For detailed information, refer to the [**subject of this project**](https://github.com/Diogo13Antunes/42Cursus_Printf/blob/main/Subject.pdf).
+
+## 🛠️ Usage
+
+### Requirements
+
+The library is written in C language and thus needs the **`gcc` compiler** and some standard **C libraries** to run.
+
+### Instructions
+
+**1. Compiling the library**
+
+To compile the library, run:
+
+```shell
+$ cd path/to/ft_printf && make
+```
