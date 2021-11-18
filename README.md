@@ -31,6 +31,4 @@ The library is written in C language and thus needs the **`gcc` compiler** and s
 ```shell
 git clone https://github.com/Diogo13Antunes/42Cursus_Printf.git
 ```
-OR
-
-Download by clicking [**HERE**](https://github.com/Diogo13Antunes/42Cursus_Printf/archive/refs/heads/main.zip)
+OR Download by clicking [**HERE**](https://github.com/Diogo13Antunes/42Cursus_Printf/archive/refs/heads/main.zip)
