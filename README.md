@@ -33,4 +33,4 @@ git clone https://github.com/Diogo13Antunes/42Cursus_Printf.git
 ```
 OR Download by clicking [**HERE**](https://github.com/Diogo13Antunes/42Cursus_Printf/archive/refs/heads/main.zip)
 
-OR  <button type="button" formaction="https://github.com/Diogo13Antunes/42Cursus_Printf/archive/refs/heads/main.zip">Download Here</button> 
+OR  <button type="button" type="https://github.com/Diogo13Antunes/42Cursus_Printf/archive/refs/heads/main.zip">Download Here</button> 
