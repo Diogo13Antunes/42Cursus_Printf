@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-	<b><i>This project tries to replicate th original printf.</i></b>
+	<b><i>This project tries to replicate the original printf.</i></b>
 </p>
 
 <p align="center">
