@@ -1,5 +1,5 @@
 <h1 align="center">
-	42cursus' ft_printf
+	FT_PRINTF
 </h1>
 
 <p align="center">
