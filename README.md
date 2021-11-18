@@ -3,5 +3,5 @@
 </h1>
 
 <p align="center">
-	<b><i>Development repo for 42cursus' ft_printf project</i></b>
+	<b><i>this project tries to replicate th original printf.</i></b>
 </p>
