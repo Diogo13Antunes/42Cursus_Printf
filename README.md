@@ -22,25 +22,25 @@ See the [subject](./subject.pdf) for more information.
 git clone git@github.com:Diogo13Antunes/42Cursus_Printf.git
 ```
 
-3. Go to the repository.
+2. Go to the repository.
 
 ```shell
 cd 42Cursus_Printf
 ```
 
-2. Compile the Library
+3. Compile the Library
 
 ```shell
 cd ft_printf && make && cd ..
 ```
 
-3. Execution
+4. Execution
 
 ```shell
 gcc main.c libftprintf.a && ./a.out
 ```
 
-4. Cleaning
+5. Cleaning
 
 ```shell
 cd ft_printf && make && cd .. && rm -rf a.out
