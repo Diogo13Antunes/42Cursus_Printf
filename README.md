@@ -6,7 +6,7 @@ See the [subject](./subject.pdf) for more information.
 
 ## Table of Contents (TOC)
 
-- [Requirements(](#requirements)
+- [Requirements](#requirements)
 - [How to use it?](#how-to-use-it)
 - [License](#lisence)
 
