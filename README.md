@@ -48,4 +48,4 @@ cd ft_printf && make && cd .. && rm -rf a.out
 
 ## Lisence
 
-Check all the terms here.
+Check all the terms [here](/LICENSE).
