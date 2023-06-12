@@ -1,34 +1,51 @@
-<h1 align="center">
-	FT_PRINTF
-</h1>
+# Printf
 
-<p align="center">
-	<b><i>This project tries to replicate the original printf.</i></b>
-</p>
+The project aims to replicate the original printf function.
 
-<p align="center">
-	<img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/Diogo13Antunes/42Cursus_Printf?color=blueviolet" />
-	<img alt="Number of lines of code" src="https://img.shields.io/tokei/lines/github/Diogo13Antunes/42Cursus_Printf?color=blueviolet" />
-	<img alt="Code language count" src="https://img.shields.io/github/languages/count/Diogo13Antunes/42Cursus_Printf?color=blue" />
-	<img alt="GitHub top language" src="https://img.shields.io/github/languages/top/Diogo13Antunes/42Cursus_Printf?color=blue" />
-	<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Diogo13Antunes/42Cursus_Printf?color=brightgreen" />
-</p>
+See the [subject](./subject.pdf) for more information.
 
-## 🗣️ About
+## Table of Contents (TOC)
 
-> _This project is pretty straight forward. You will recode printf. Hopefully you will be able to reuse it in future project without the fear of being flagged as a cheater. You will mainly learn how to use variadic arguments._
+- [Requirements(](#requirements)
+- [How to use it?](#how-to-use-it)
+- [License](#lisence)
 
-For detailed information, refer to the [**subject of this project**](https://github.com/Diogo13Antunes/42Cursus_Printf/blob/main/Subject.pdf).
+## Requirements
 
-## 🛠️ Download
+> To run this functio you need a C compiler and the standard C libraries.
 
-### Requirements
+## How to use it?
 
-The library is written in C language and thus needs the **`gcc` compiler** and some standard **C libraries** to run.
-
-### Instructions
+1. Clone the repository.
 
 ```shell
-git clone https://github.com/Diogo13Antunes/42Cursus_Printf.git
+git clone git@github.com:Diogo13Antunes/42Cursus_Printf.git
 ```
-OR Download by clicking [**HERE**](https://github.com/Diogo13Antunes/42Cursus_Printf/archive/refs/heads/main.zip)
+
+3. Go to the repository.
+
+```shell
+cd 42Cursus_Printf
+```
+
+2. Compile the Library
+
+```shell
+cd ft_printf && make && cd ..
+```
+
+3. Execution
+
+```shell
+gcc main.c libftprintf.a && ./a.out
+```
+
+4. Cleaning
+
+```shell
+cd ft_printf && make && cd .. && rm -rf a.out
+```
+
+## Lisence
+
+Check all the terms here.
